@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"code.cloudfoundry.org/cli/cf/models"
-	clipr "github.com/cloudfoundry/cli-plugin-repo/web"
+	clipr "code.cloudfoundry.org/cli-plugin-repo/web"
 
 	. "code.cloudfoundry.org/cli/cf/i18n"
 )
